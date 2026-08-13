@@ -1,0 +1,13 @@
+name = "Clutter No More"
+filename = "clutternomore-2.0.7+26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ewyjbmG4/versions/VpbPsokl/clutternomore-2.0.7%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "1c28108ee2bbb4ac74c5f929d5f1402ac1cc818daa00bb1ffd6a1b6cef80115ff64f5596122212999cb1b015289ed8dc5b67207f6b5a4ae64408e59a0800c3e8"
+
+[update]
+[update.modrinth]
+mod-id = "ewyjbmG4"
+version = "VpbPsokl"

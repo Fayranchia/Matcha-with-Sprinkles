@@ -1,0 +1,13 @@
+name = "Reliable Recipes"
+filename = "reliable_recipes-fabric-26.2-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hl4ARA1z/versions/F7XzY6rr/reliable_recipes-fabric-26.2-2.1.0.jar"
+hash-format = "sha512"
+hash = "6c500528dfcfbb4a5af8ea7c163a64c39b62b9cd02e34cc437353afd803a5e6c834ff421fc2801cf338c0c6363bbead5e00ed97476330b164b69e8a4cff1dbb6"
+
+[update]
+[update.modrinth]
+mod-id = "Hl4ARA1z"
+version = "F7XzY6rr"

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:bamboo_blocks"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "lolmcv:bamboo_chest"
+  }
+}

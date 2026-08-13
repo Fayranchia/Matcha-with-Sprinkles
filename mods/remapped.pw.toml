@@ -1,0 +1,13 @@
+name = "Remapped"
+filename = "remapped-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MqALL8pc/versions/zy5xUcNO/remapped-2.0.2.jar"
+hash-format = "sha512"
+hash = "e5b839ef016befd7ce1fe215e2e2a18684bfd707a3ead8e66ea4c1a7dbd999dc9a236133bb87f749f54e5731298d548c1edc9c9c691a3d98fb45b6f53b2174f0"
+
+[update]
+[update.modrinth]
+mod-id = "MqALL8pc"
+version = "zy5xUcNO"

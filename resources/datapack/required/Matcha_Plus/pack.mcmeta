@@ -1,0 +1,37 @@
+{
+  "pack": {
+    "description": "Pack Additions to Matcha Flavored",
+    "pack_format": 107,
+    "min_format": 107,
+    "max_format": 107
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "ecologics",
+        "path": "recipe/mushroom_stew_from_coconut_husk.json"
+      },
+      {
+        "namespace": "an",
+        "path": "worldgen/structure_set/.*"
+      },
+      {
+        "namespace": "an",
+        "path": "recipe/.*"
+      },
+      {
+        "namespace": "an",
+        "path": "tags/worldgen/biome/toxic_biomes.json"
+      },
+      {
+        "namespace": "an",
+        "path": "advancements/.*"
+      },
+      {
+        "namespace": "crafting",
+        "path": "recipe/chest_from_logs.json"
+      }
+    ]
+  }
+}
+

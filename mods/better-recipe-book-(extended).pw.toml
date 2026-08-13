@@ -1,0 +1,13 @@
+name = "Better Recipe Book (Adorable♡Girl aVa Seriously Extended)"
+filename = "BetterRecipeBookExtended-fabric-26.2-2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OkfpeX68/versions/Z22rcxWM/BetterRecipeBookExtended-fabric-26.2-2.2.jar"
+hash-format = "sha512"
+hash = "0e36eaacfd003ab56dce0cc86697de5ae795383db844cc6a5c1e2e0290ac74da75b466090335696219c44d5de3df0f1847bba36bc6a10813f8f17dba15c99baf"
+
+[update]
+[update.modrinth]
+mod-id = "OkfpeX68"
+version = "Z22rcxWM"

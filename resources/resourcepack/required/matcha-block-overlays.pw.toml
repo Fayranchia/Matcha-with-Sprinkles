@@ -1,0 +1,13 @@
+name = "Matcha Block Overlays"
+filename = "Matcha_Block_Overlays_1_03.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NsganuaN/versions/F2M8tAW7/Matcha_Block_Overlays_1_03.zip"
+hash-format = "sha512"
+hash = "f3dde9bf24615ef8a445b222bccae5e0468cb158e04bc2f93306960c83d723856b898c0505be2ceb6f6e8b6ed7d898751980115ed38fe20f0f06b86f58750135"
+
+[update]
+[update.modrinth]
+mod-id = "NsganuaN"
+version = "F2M8tAW7"

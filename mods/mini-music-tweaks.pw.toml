@@ -1,0 +1,13 @@
+name = "Mini Music Tweaks"
+filename = "music_tweaks-fabric-26.2-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eiONV3dI/versions/pZchnjt7/music_tweaks-fabric-26.2-1.3.0.jar"
+hash-format = "sha512"
+hash = "992e6df8a4c6a1ff05acfc0686632871f0ee49e802b05971750ee90f767bd99dc9e1a6dfec0db34dd1aded8e85af08cab8abc915b8fec174f6a9aa2ba0325bac"
+
+[update]
+[update.modrinth]
+mod-id = "eiONV3dI"
+version = "pZchnjt7"

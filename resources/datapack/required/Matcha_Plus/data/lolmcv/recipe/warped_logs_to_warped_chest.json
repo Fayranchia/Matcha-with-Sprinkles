@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:warped_stems"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "lolmcv:warped_chest"
+  }
+}

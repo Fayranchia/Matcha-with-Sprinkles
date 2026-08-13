@@ -1,0 +1,13 @@
+name = "Forked"
+filename = "forked-1.0.1-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L24EfRL8/versions/nA6prVXq/forked-1.0.1-26.2.jar"
+hash-format = "sha512"
+hash = "d3a155e075ea9d7636a6d41b9a6224f485370a580d52c1905659e008bb6e34bd3053a9fecbbb27f14e761d373aa4f0183e7214f06503c6eb0db697632e4ccf79"
+
+[update]
+[update.modrinth]
+mod-id = "L24EfRL8"
+version = "nA6prVXq"

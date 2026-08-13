@@ -1,0 +1,13 @@
+name = "Double Doors"
+filename = "doubledoors-26.2.0-7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JrvR9OHr/versions/uiANFlUz/doubledoors-26.2.0-7.2.jar"
+hash-format = "sha512"
+hash = "8d63de32bd7558812c78d67e5fe4e620bbb2aaa9f2f6b7af56020844aa5f7dcf9f7313db287bada2483073f04dfe05822c00a86eca83c597821543f85e22f024"
+
+[update]
+[update.modrinth]
+mod-id = "JrvR9OHr"
+version = "uiANFlUz"

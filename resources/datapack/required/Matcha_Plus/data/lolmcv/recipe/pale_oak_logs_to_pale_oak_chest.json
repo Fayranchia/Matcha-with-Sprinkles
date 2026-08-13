@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:pale_oak_logs"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "lolmcv:pale_oak_chest"
+  }
+}

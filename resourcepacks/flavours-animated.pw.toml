@@ -1,0 +1,13 @@
+name = "Matcha Flavoured - Flavours Animated"
+filename = "FlavoursAnimated-1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5RaD1zwi/versions/okXGaUZH/FlavoursAnimated-1.1.zip"
+hash-format = "sha512"
+hash = "a1a9147e26800c5ae3b361aa5ca502d647e511e1e234fe7c8d8fe7b08615be868f467a62c531a499d68c607b4e05c5525df9efca61649e6005c3e859c47f06b5"
+
+[update]
+[update.modrinth]
+mod-id = "5RaD1zwi"
+version = "okXGaUZH"

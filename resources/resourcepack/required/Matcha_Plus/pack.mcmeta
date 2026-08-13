@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "description": "Pack additions to Matcha Flavored",
+    "min_format": 88,
+    "max_format": 88
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "mstv-base",
+        "path": ""
+      }
+    ]
+  }
+}

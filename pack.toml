@@ -1,0 +1,16 @@
+name = "Matcha Plus"
+author = "Fayranchia"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3d163e11778671dbc33c867ab7f2f0dee2ca6d6f740a7b9c03871b0d37f8a7e2"
+
+[versions]
+minecraft = "26.2"
+quilt = "0.30.1-beta.2"
+
+[options]
+datapack-folder = "resources/datapack/required/"

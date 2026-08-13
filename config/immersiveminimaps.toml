@@ -1,0 +1,40 @@
+minimap_enable = true
+moved_by_effects = true
+hide_from_debug = true
+default_scale = -1
+apply_requirements_to_hoofprint = true
+immersive_overlays_bridge = false
+items_place_landmarks = false
+items_open_world_map = true
+
+[requirements]
+	require_item = true
+	require_item_in_hand = false
+	search_containers = true
+	search_containers_for_containers = true
+	items = ["minecraft:map", "minecraft:filled_map"]
+
+# Options to change the visuals of the map to be more or less vanilla-style.
+[style]
+	# How large to render the minimap.
+	# range: 0 - 500
+	# default: 80
+	size = 80
+	# Anchor the minimap to the left edge of the screen. Disable to anchor it to the right edge of the screen.
+	# default: true
+	left_align = true
+	# Horizontal offset from the edge of the screen.
+	# range: 0 - 500
+	# default: 5
+	xOffset = 5
+	# Vertical offset from the edge of the screen.
+	# range: 0 - 500
+	# default: 5
+	yOffset = 5
+	draw_background = true
+	draw_landmarks = true
+	draw_players = true
+	# Whether to render far-off players on the map.
+	# default: false
+	draw_offscreen_players = true
+	draw_players_with_locator_bar_colours = true

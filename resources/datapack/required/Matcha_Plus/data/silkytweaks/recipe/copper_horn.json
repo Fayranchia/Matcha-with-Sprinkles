@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "/": "#c:ingots/copper",
+    "#": "minecraft:goat_horn"
+  },
+  "pattern": [
+    "/#/",
+    " / "
+  ],
+  "result": {
+    "id": "horseman:copper_horn"
+  }
+}

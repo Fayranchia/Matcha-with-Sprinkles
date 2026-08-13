@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "/": "minecraft:stick",
+    "_": "minecraft:smooth_stone_slab",
+    "#": "minecraft:jungle_planks"
+  },
+  "pattern": [
+    "/#/",
+    " / ",
+    "/_/"
+  ],
+  "result": {
+    "id": "mstv-masv:jungle_armor_stand"
+  }
+}

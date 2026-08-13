@@ -1,0 +1,13 @@
+name = "Wilder Flowers"
+filename = "wilderflowers-1.1.1+26.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8lUQapTY/versions/coR2UYtc/wilderflowers-1.1.1%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "105f3da34f5332bea93a9208d037a586c61a2ec8123c0f6e1ce0bb08b6bce0eb05a0c31732b593a638a4622085a0cf2af057a03998d1d14fe4ecffe720385471"
+
+[update]
+[update.modrinth]
+mod-id = "8lUQapTY"
+version = "coR2UYtc"

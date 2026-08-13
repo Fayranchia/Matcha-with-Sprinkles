@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": "minecraft:stick",
+    "_": "minecraft:spruce_planks"
+  },
+  "pattern": [
+    "# #",
+    "#_#",
+    "# #"
+  ],
+  "result": {
+    "count": 3,
+    "id": "nemos-carpentry:spruce_ladder"
+  }
+}
