@@ -1,0 +1,13 @@
+name = "Modest Magic"
+filename = "modestmagic-fabric-26.1.2-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sWRvoDiO/versions/S9q9uW6T/modestmagic-fabric-26.1.2-1.3.1.jar"
+hash-format = "sha512"
+hash = "22880bc0dfc44ffa97b9c544b4c0ab3e323b0652a0b0175f1aff29c6fdca0ef19ec76d120545527e8de3e7cbcfac53b2a5353e48125223ee9b5bd3d1e45da4e3"
+
+[update]
+[update.modrinth]
+mod-id = "sWRvoDiO"
+version = "S9q9uW6T"

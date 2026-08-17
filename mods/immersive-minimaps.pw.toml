@@ -1,6 +1,6 @@
 name = "Immersive Minimaps"
 filename = "immersiveminimaps-1.2.4+26.2-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CbCN2Azx/versions/HnF7eYDf/immersiveminimaps-1.2.4%2B26.2-fabric.jar"

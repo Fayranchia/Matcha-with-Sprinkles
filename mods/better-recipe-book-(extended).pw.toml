@@ -1,6 +1,6 @@
 name = "Better Recipe Book (Adorable♡Girl aVa Seriously Extended)"
 filename = "BetterRecipeBookExtended-fabric-26.2-2.2.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OkfpeX68/versions/Z22rcxWM/BetterRecipeBookExtended-fabric-26.2-2.2.jar"

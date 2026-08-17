@@ -1,0 +1,13 @@
+name = "Matcha-Trims"
+filename = "Matcha_Trims.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ck6sc7sV/versions/zgVEo4Bz/Matcha_Trims.zip"
+hash-format = "sha512"
+hash = "091f5d3d1840abd9bd4e026df0c3c5ed6ec74c932c404c7037321e3a6c08402c87d2d1b63c80d38ca194d603e82a6d11ba13f8ddfcaee5d1f881460fac8b4b63"
+
+[update]
+[update.modrinth]
+mod-id = "ck6sc7sV"
+version = "zgVEo4Bz"
