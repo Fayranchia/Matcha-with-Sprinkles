@@ -5107,7 +5107,3 @@ hash = "314aca868a8b5a844ceb570180a7e4bbae42103d17f3b48db441ea33a90c3f59"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
-
-[[files]]
-file = "todo.md"
-hash = "0c3193cc3d34d8e767206705b9b19ebe643ab060e8e298778e727ee73817442f"
