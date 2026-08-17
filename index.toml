@@ -982,6 +982,11 @@ file = "resources/datapack/required/Matcha_Plus/pack.mcmeta"
 hash = "accc43b00c9471067e3d3e3a9d1d020a3b23596d8582b88eaae83527613fd1ee"
 
 [[files]]
+file = "resources/datapack/required/local-flavors.pw.toml"
+hash = "b93be78adecbc675ed8f2a44730464fc90a8fa100506ce11badf4c3805b10964"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/optional/flavours-animated.pw.toml"
 hash = "3e1340f766b5a2d09d17cc498277604f0131b64b8ffa3b8d62fe1c7fcd22aa79"
 metafile = true
