@@ -33,6 +33,10 @@ file = "config/reliable_remover/removal_ecologics.json"
 hash = "7fe610abe5aebf8e2418cd2423a62eda083c9fd396c3fb64e3539c1d66f29e71"
 
 [[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "dcbbfd9a7aa8da6cb0198784922a55828307f3b8a3ed2e97de0baa6fd99f79d6"
+
+[[files]]
 file = "config/subtle_effects/entities.toml"
 hash = "cb5a163e33f0f27eaa2a2b8999070d05000c4fc3218628373c8bd9913560727b"
 
@@ -73,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "1b2500f3cc0ae2cfd119051ad945063ec72484575e3395fb81ab588af3b4d8e1"
+metafile = true
+
+[[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "f1f8e6933f2292a2ba69f372b6cbe009672364ff54e4f8fe5c7a68b94442b38b"
 metafile = true
 
 [[files]]
@@ -508,11 +517,6 @@ metafile = true
 [[files]]
 file = "mods/ziplines-rezipped.pw.toml"
 hash = "3ca3490e76156d4614ad12289768353627d556c545df22e2e563dfcc432abe89"
-metafile = true
-
-[[files]]
-file = "resourcepacks/flavours-animated.pw.toml"
-hash = "3e1340f766b5a2d09d17cc498277604f0131b64b8ffa3b8d62fe1c7fcd22aa79"
 metafile = true
 
 [[files]]
@@ -976,6 +980,11 @@ hash = "cefd2dc834bc325457be75f639f0b1b2597a84e5a566977b487a66590ac3340c"
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/pack.mcmeta"
 hash = "accc43b00c9471067e3d3e3a9d1d020a3b23596d8582b88eaae83527613fd1ee"
+
+[[files]]
+file = "resources/resourcepack/optional/flavours-animated.pw.toml"
+hash = "3e1340f766b5a2d09d17cc498277604f0131b64b8ffa3b8d62fe1c7fcd22aa79"
+metafile = true
 
 [[files]]
 file = "resources/resourcepack/optional/icons-numerals.pw.toml"
@@ -1472,6 +1481,11 @@ file = "resources/resourcepack/required/Matcha_Plus/pack.mcmeta"
 hash = "d87be2a1cce43e9a9002bd2c7720b4466126eafd530b57976db89041080cbdda"
 
 [[files]]
+file = "resources/resourcepack/required/gooses-lilypads.pw.toml"
+hash = "da6800c8d0dfb95c247f0714d823b579ea2418095c8cd07d46faeaf5415d98ac"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/required/matcha-block-overlays.pw.toml"
 hash = "efd67c33ae9a65c7b3f53333673b8052675096312cd31c2040dfa5fb3a950615"
 metafile = true
@@ -1483,7 +1497,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
-hash = "314aca868a8b5a844ceb570180a7e4bbae42103d17f3b48db441ea33a90c3f59"
+hash = "91980262d3b647de88b4be848758284cfdc9bb040609d9d708bdacff29c8645e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

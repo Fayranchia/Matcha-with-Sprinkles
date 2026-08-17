@@ -1,0 +1,13 @@
+name = "Goose's Lilypads"
+filename = "Goose's Lilypads.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1DDIFkAd/versions/I5NJOYO0/Goose%27s%20Lilypads.zip"
+hash-format = "sha512"
+hash = "444c224e1bef28abfff1b44c23988916d1b306de2e1ba345f5264442f1f32b273426bf9c241855ec4679b2722fe65a94381e12db65c0abca387b260aa30eb015"
+
+[update]
+[update.modrinth]
+mod-id = "1DDIFkAd"
+version = "I5NJOYO0"

@@ -1,0 +1,13 @@
+name = "Bow Infinity Fix"
+filename = "BowInfinityFix-26.2-fabric-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BFENfScW/versions/KLM8CfpY/BowInfinityFix-26.2-fabric-3.3.0.jar"
+hash-format = "sha512"
+hash = "a3cb80e6e8014c782f67fcc182fdd6b2df701ba92f03363a267662e96669efa055b08086030b14eb75a7c73bd1e5050c8e6fd88d1250eeeb866b16baf6f1a802"
+
+[update]
+[update.modrinth]
+mod-id = "BFENfScW"
+version = "KLM8CfpY"
