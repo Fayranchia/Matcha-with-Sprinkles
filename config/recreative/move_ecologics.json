@@ -9,7 +9,7 @@
         "add_items": [
             {"item": "ecologics:thin_ice", "after":"minecraft:blue_ice"},
             {"item": "ecologics:seashell", "before":"minecraft:sponge"},
-            {"item": "ecologics:azalea_flower", "after":"minecraft:flowering_azalea"},
+            {"item": "ecologics:azalea_flower", "after":"minecraft:azalea_leaves"},
             {"item": "ecologics:surface_moss", "after":"minecraft:moss_carpet"},
             {"item": "ecologics:azalea_log", "after": "minecraft:pale_oak_log"}
         ]

@@ -30,7 +30,7 @@ hash = "bd192f6b839be389ed2747cad4b232e565cc8b6b71f67f10932ddd058179e92d"
 
 [[files]]
 file = "config/recreative/move_ecologics.json"
-hash = "578a9c6bc038caae090c1acacc13e4fc8ed7c8909d2f8f0b6cd5763e89b3d5ea"
+hash = "09762c3969222b419199066a3301afa4daa3bf1a05c66b7bc7dbf3cddd33c001"
 
 [[files]]
 file = "config/reliable_remover/modest_cleanup.json"
@@ -563,7 +563,7 @@ hash = "e56124e041cad2db470520e00fcc5f250a53148b00e0edfdec6afa3ae1ad7cb8"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/matcha_plus.json"
-hash = "098b60f69b162bf104ee04be0e7c319e7c9b565ddebad9e04e83a1284c14b0f5"
+hash = "c58ddc78d455ba966778934fdda0b3c272dcc7eee7e40253d2e6f630c178b277"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/connectiblechains/tags/block/chain_connectible.json"

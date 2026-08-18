@@ -29,6 +29,13 @@
     ],
     "minecraft:repeater": [
       "minecraft:comparator"
+    ],
+    "minecraft:ochre_froglight": [
+      "minecraft:verdant_froglight",
+      "minecraft:pearlescent_froglight"
+    ],
+    "minecraft:warped_roots": [
+      "minecraft:nether_sprouts"
     ]
   }
 }
