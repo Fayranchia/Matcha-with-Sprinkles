@@ -550,40 +550,16 @@ file = "resources/datapack/required/Matcha_Plus/data/an/function/timer/tick.mcfu
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "resources/datapack/required/Matcha_Plus/data/blasting/recipe/silver_from_blasting_raw_silver.json"
-hash = "ddc9f1db985813fb29ce645e87331577e410ee35ef18f11a353186cad5455c70"
-
-[[files]]
-file = "resources/datapack/required/Matcha_Plus/data/blasting/recipe/steel_alloy.json"
-hash = "133b82542f6c57eeb8332aa4170508ca55da2d4cdd6ccdc23be2bd61ecc61d51"
-
-[[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/clutternomore.json"
 hash = "e56124e041cad2db470520e00fcc5f250a53148b00e0edfdec6afa3ae1ad7cb8"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/matcha_plus.json"
-hash = "3e099156cd51abe811abff3629ff0fdc4cbdfb29ae69fd0ff3148bf0f844540f"
+hash = "240f00a71edd8ddaa8e23ac447090128b9c05e228d34876d833f3a5126943f21"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/connectiblechains/tags/block/chain_connectible.json"
 hash = "706211c28f6e6c0ae086caa53cd4a4a910096091a5ea97e9d634e4fa0234c6ad"
-
-[[files]]
-file = "resources/datapack/required/Matcha_Plus/data/crafting/recipe/bronze_alloy.json"
-hash = "a177d6b9d1fcfc3dda08950b2e9af8f5f76721458857d433e86287a2dca867e4"
-
-[[files]]
-file = "resources/datapack/required/Matcha_Plus/data/crafting/recipe/electrum_alloy.json"
-hash = "73d00f5a61f969b91a994523a50d4b5262491862e88135863f1a2d0221cedf32"
-
-[[files]]
-file = "resources/datapack/required/Matcha_Plus/data/crafting/recipe/shakudo_alloy.json"
-hash = "c457cf0f3822690bc2e379a58a4ba00eaa9065a6375fa833703594f7ef57ff13"
-
-[[files]]
-file = "resources/datapack/required/Matcha_Plus/data/ecologics/recipe/azalea_planks.json"
-hash = "9170a6b03e2f754e2c403625c0bbe1c3850772ee5c3b02d4485f00db3614e7d1"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/ecologics/tags/item/azalea_logs.json"
@@ -990,6 +966,10 @@ file = "resources/datapack/required/Matcha_Plus/data/nemos-carpentry/recipe/warp
 hash = "3a701f4c581044fa8a618a8a4286e05deb86ec02e99cb5b350fea0269b673e5b"
 
 [[files]]
+file = "resources/datapack/required/Matcha_Plus/data/silkytweaks/recipe/azalea_planks.json"
+hash = "9170a6b03e2f754e2c403625c0bbe1c3850772ee5c3b02d4485f00db3614e7d1"
+
+[[files]]
 file = "resources/datapack/required/Matcha_Plus/data/silkytweaks/recipe/chests_to_sack.json"
 hash = "b5f7a6d59aa77ff43d708b83e08b529ddeb1b5cef66cf637fadb6b4708a72a25"
 
@@ -999,7 +979,7 @@ hash = "cefd2dc834bc325457be75f639f0b1b2597a84e5a566977b487a66590ac3340c"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/pack.mcmeta"
-hash = "accc43b00c9471067e3d3e3a9d1d020a3b23596d8582b88eaae83527613fd1ee"
+hash = "3b7988ed8c9a1eaa92adef84ac82c462ddd48b191fcf942b1a514d040ce1e30b"
 
 [[files]]
 file = "resources/datapack/required/local-flavors.pw.toml"

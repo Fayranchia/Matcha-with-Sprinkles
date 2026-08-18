@@ -13,11 +13,11 @@
       },
       {
         "namespace": "an",
-        "path": "worldgen/structure_set/.*"
+        "path": "worldgen/structure_set/.+"
       },
       {
         "namespace": "an",
-        "path": "recipe/.*"
+        "path": "recipe/.+"
       },
       {
         "namespace": "an",
@@ -25,7 +25,15 @@
       },
       {
         "namespace": "an",
-        "path": "advancements/.*"
+        "path": "predicate/.+"
+      },
+      {
+        "namespace": "an",
+        "path": "location_check/.+"
+      },
+      {
+        "namespace": "an",
+        "path": "advancements/.+"
       },
       {
         "namespace": "crafting",
@@ -34,4 +42,3 @@
     ]
   }
 }
-
