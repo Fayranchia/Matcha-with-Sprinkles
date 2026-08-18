@@ -106,6 +106,8 @@
 
     "/(?<ns>[^:]+):(?<wood>.+)_stem/": [
       "${ns}:${wood}_hyphae",
+      "${ns}:stripped_${wood}_stem",
+      "${ns}:stripped_${wood}_hyphae",
       "quark:hollow_${wood}_stem",
       "wilderwild:hollowed_${wood}_stem",
       "everycomp:q/${ns}/hollow_${wood}_stem",

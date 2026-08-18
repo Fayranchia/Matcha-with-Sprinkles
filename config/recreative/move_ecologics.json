@@ -10,20 +10,26 @@
             {"item": "ecologics:thin_ice", "after":"minecraft:blue_ice"},
             {"item": "ecologics:seashell", "before":"minecraft:sponge"},
             {"item": "ecologics:azalea_flower", "after":"minecraft:flowering_azalea"},
-            {"item": "ecologics:surface_moss", "after":"minecraft:moss_carpet"}
+            {"item": "ecologics:surface_moss", "after":"minecraft:moss_carpet"},
+            {"item": "ecologics:azalea_log", "after": "minecraft:pale_oak_log"}
         ]
     },
     {
         "action": "modify_tab",
         "tabs": ["minecraft:building_blocks"],
-        "add_items": ["ecologics:ice_bricks",
-            "ecologics:ice_brick_stairs",
-            "ecologics:ice_brick_slab",
-            "ecologics:ice_brick_wall",
+        "add_items": [
+            "ecologics:ice_bricks",
             "ecologics:snow_bricks",
-            "ecologics:snow_brick_stairs",
-            "ecologics:snow_brick_slab",
-            "ecologics:snow_brick_wall"
+            {"item": "ecologics:azalea_log", "before": "minecraft:bamboo_block"},
+            {"item": "ecologics:azalea_planks", "before": "minecraft:bamboo_block"},
+            {"item": "ecologics:azalea_fence", "before": "minecraft:bamboo_block"},
+            {"item": "ecologics:azalea_door", "before": "minecraft:bamboo_block"},
+            {"item": "ecologics:azalea_pressure_plate", "before": "minecraft:bamboo_block"},
+            {"item": "ecologics:azalea_button", "before": "minecraft:bamboo_block"}
         ]
+    },
+    {
+        "action": "modify_tab",
+        "tabs": ["minecraft:functional_blocks"]
     }
 ]

@@ -4,6 +4,25 @@
     "ecologics:azalea_log": [
       "ecologics:flowering_azalea_log",
       "ecologics:flowering_azalea_wood"
+    ],
+    "minecraft:azalea_leaves": [
+      "minecraft:flowering_azalea_leaves"
+    ],
+    "minecraft:azalea": [
+      "minecraft:flowering_azalea"
+    ],
+    "/(?<ns>[^:]+):(?<wood>.+)_fence/": [
+      "${ns}:${wood}_fence_gate"
+    ],
+    "/(?<ns>[^:]+):(?<wood>.+)_door/": [
+      "${ns}:${wood}_trapdoor"
+    ],
+    "/(?<ns>[^:]+):(?<wood>.+)_sign/": [
+      "${ns}:${wood}_hanging_sign"
+    ],
+    "/(?<ns>[^:]+):(?<wood>.+)_chest/": [
+      "${ns}:${wood}_barrel",
+      "${ns}:${wood}_trapped_chest"
     ]
   }
 }

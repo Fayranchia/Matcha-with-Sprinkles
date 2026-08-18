@@ -22,7 +22,11 @@ hash = "bd192f6b839be389ed2747cad4b232e565cc8b6b71f67f10932ddd058179e92d"
 
 [[files]]
 file = "config/recreative/move_ecologics.json"
-hash = "15953187044fd53d2ef687caec9d6a2b524a3be26267786f881dd91986122fe9"
+hash = "578a9c6bc038caae090c1acacc13e4fc8ed7c8909d2f8f0b6cd5763e89b3d5ea"
+
+[[files]]
+file = "config/reliable_remover/modest_cleanup.json"
+hash = "e5cd8df53f8eac82c6c9c09ad0ba3d753ecdde651ac56f8e1b7e35ac7a13b68c"
 
 [[files]]
 file = "config/reliable_remover/mstv.json"
@@ -555,11 +559,11 @@ hash = "133b82542f6c57eeb8332aa4170508ca55da2d4cdd6ccdc23be2bd61ecc61d51"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/clutternomore.json"
-hash = "6dc21cf893d5873b44db49b5496bdd1c51288b2ea83002037c6cb1b3b00b4759"
+hash = "e56124e041cad2db470520e00fcc5f250a53148b00e0edfdec6afa3ae1ad7cb8"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/matcha_plus.json"
-hash = "117cc69f8a5e9b341b5db6a13cfd49e7cf056a46c8be331462277b37b270512b"
+hash = "3e099156cd51abe811abff3629ff0fdc4cbdfb29ae69fd0ff3148bf0f844540f"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/connectiblechains/tags/block/chain_connectible.json"
@@ -576,6 +580,14 @@ hash = "73d00f5a61f969b91a994523a50d4b5262491862e88135863f1a2d0221cedf32"
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/crafting/recipe/shakudo_alloy.json"
 hash = "c457cf0f3822690bc2e379a58a4ba00eaa9065a6375fa833703594f7ef57ff13"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/ecologics/recipe/azalea_planks.json"
+hash = "9170a6b03e2f754e2c403625c0bbe1c3850772ee5c3b02d4485f00db3614e7d1"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/ecologics/tags/item/azalea_logs.json"
+hash = "8c9a7a703c03a3b0d151cf586727a246966725109be77c75c7e69618b9f94302"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/lolmcv/recipe/acacia_logs_to_acacia_chest.json"
@@ -1010,10 +1022,6 @@ hash = "d72435ee855161b3ccc57824066254182cc7b23638b5962c9ff224f79abe9633"
 metafile = true
 
 [[files]]
-file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/tags/item/azalea_logs.json"
-hash = "8c9a7a703c03a3b0d151cf586727a246966725109be77c75c7e69618b9f94302"
-
-[[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/azalea_bookshelf.png"
 hash = "5cde6b017aab6d6c8ef92f6c656c13067cb7addd8ac216427d1197ddbd3d1862"
 
@@ -1068,6 +1076,38 @@ hash = "bf49ad6d5dcac19e51f45f7cf19bc6875d2eefd77deb96572879cf90b59a09fb"
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/stripped_azalea_log_top.png"
 hash = "10ef112ec41b5259bb17e6e944c1e90190c672604f6c1d8abcbaf6f350b63511"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/entity/boat/azalea.png"
+hash = "89a92142be540bca51f425785932576a8b1edc1221b1c63e575ca9a330ee201e"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/entity/chest_boat/azalea.png"
+hash = "578112af53855e109f0e76470f7b00465d2d72e482a02be5c476e3ac036f941a"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/gui/hanging_sign/azalea.png"
+hash = "975fb14fd9517d797e56b870075609e1dfc7899db4f820f70b3d3bfdbbece245"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/item/azalea_boat.png"
+hash = "d46a9cc3d545d45b76479547ebd324da2c5abb07901ca8b7592f3e42c5ea94e6"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/item/azalea_chest_boat.png"
+hash = "cd3a576fd8be602ce52f95ac5438cd0092e3ad84563301ae56579b542b1642b9"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/item/azalea_door.png"
+hash = "55d49f50cfc42d453d9a8a8a5c590fbb6096c7985069b9c2cc62d09e66933ae9"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/item/azalea_hanging_sign.png"
+hash = "53a6206874eacd25035693694405d38f642f11aeb24470e07c4f3cea1d0d98e8"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/item/azalea_sign.png"
+hash = "dfe4ebaffac3aefa6517b75d572fcb2edfd15acfa78dc702ce25f45df2d74a5c"
 
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/lightweight-inventory-sorting/textures/gui/sprites/sort_button_large.png"
