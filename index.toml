@@ -9,6 +9,14 @@ file = "config/betteradvancements.json"
 hash = "03974d2fb612d58e0068bd4c64002db8032d6bf17c6675b604ab3f83021b4a7a"
 
 [[files]]
+file = "config/brbe.toml"
+hash = "5df2813124704ff7429a521b4c266c699f78cd65bdd7b845cbce91f915f5f0c1"
+
+[[files]]
+file = "config/clutternomore/startup.toml"
+hash = "8e3a63006e8cf91bbb87fa406f49289a0fcd3e10ab39d2311c55f0620956ae4b"
+
+[[files]]
 file = "config/ecologics.json"
 hash = "e7610a819f8b40cd8a6715a58eb1b85bd5e2d63a92fbf97f62b48c9dbcea5f21"
 
@@ -555,7 +563,7 @@ hash = "e56124e041cad2db470520e00fcc5f250a53148b00e0edfdec6afa3ae1ad7cb8"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/matcha_plus.json"
-hash = "240f00a71edd8ddaa8e23ac447090128b9c05e228d34876d833f3a5126943f21"
+hash = "098b60f69b162bf104ee04be0e7c319e7c9b565ddebad9e04e83a1284c14b0f5"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/connectiblechains/tags/block/chain_connectible.json"
@@ -979,7 +987,7 @@ hash = "cefd2dc834bc325457be75f639f0b1b2597a84e5a566977b487a66590ac3340c"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/pack.mcmeta"
-hash = "3b7988ed8c9a1eaa92adef84ac82c462ddd48b191fcf942b1a514d040ce1e30b"
+hash = "1d63e36d3a9a5556339b19e8b9a395d235d96b53dd13a5fa0358e80d02ed500b"
 
 [[files]]
 file = "resources/datapack/required/local-flavors.pw.toml"

@@ -6,9 +6,8 @@
       "ecologics:flowering_azalea_wood"
     ],
     "minecraft:azalea_leaves": [
-      "minecraft:flowering_azalea_leaves"
-    ],
-    "minecraft:azalea": [
+      "minecraft:flowering_azalea_leaves",
+      "minecraft:azalea",
       "minecraft:flowering_azalea"
     ],
     "/(?<ns>[^:]+):(?<wood>.+)_fence/": [
@@ -25,7 +24,8 @@
       "${ns}:${wood}_trapped_chest"
     ],
     "/(?<ns>[^:]+):(?<wood>.+)_leaves/": [
-      "${ns}:${wood}_sapling"
+      "${ns}:${wood}_sapling",
+      "${ns}:${wood}_propagule"
     ],
     "minecraft:repeater": [
       "minecraft:comparator"

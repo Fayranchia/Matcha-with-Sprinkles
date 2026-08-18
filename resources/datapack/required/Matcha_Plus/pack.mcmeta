@@ -13,27 +13,7 @@
       },
       {
         "namespace": "an",
-        "path": "worldgen/structure_set/.+"
-      },
-      {
-        "namespace": "an",
-        "path": "recipe/.+"
-      },
-      {
-        "namespace": "an",
         "path": "tags/worldgen/biome/toxic_biomes.json"
-      },
-      {
-        "namespace": "an",
-        "path": "predicate/.+"
-      },
-      {
-        "namespace": "an",
-        "path": "location_check/.+"
-      },
-      {
-        "namespace": "an",
-        "path": "advancements/.+"
       },
       {
         "namespace": "crafting",
