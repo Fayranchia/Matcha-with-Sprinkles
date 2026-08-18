@@ -1,0 +1,9 @@
+{
+  "priority": 600,
+  "add": {
+    "ecologics:azalea_log": [
+      "ecologics:flowering_azalea_log",
+      "ecologics:flowering_azalea_wood"
+    ]
+  }
+}

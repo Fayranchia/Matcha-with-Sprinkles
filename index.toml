@@ -554,6 +554,14 @@ file = "resources/datapack/required/Matcha_Plus/data/blasting/recipe/steel_alloy
 hash = "133b82542f6c57eeb8332aa4170508ca55da2d4cdd6ccdc23be2bd61ecc61d51"
 
 [[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/clutternomore.json"
+hash = "6dc21cf893d5873b44db49b5496bdd1c51288b2ea83002037c6cb1b3b00b4759"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/matcha_plus.json"
+hash = "117cc69f8a5e9b341b5db6a13cfd49e7cf056a46c8be331462277b37b270512b"
+
+[[files]]
 file = "resources/datapack/required/Matcha_Plus/data/connectiblechains/tags/block/chain_connectible.json"
 hash = "706211c28f6e6c0ae086caa53cd4a4a910096091a5ea97e9d634e4fa0234c6ad"
 
@@ -1002,6 +1010,10 @@ hash = "d72435ee855161b3ccc57824066254182cc7b23638b5962c9ff224f79abe9633"
 metafile = true
 
 [[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/tags/item/azalea_logs.json"
+hash = "8c9a7a703c03a3b0d151cf586727a246966725109be77c75c7e69618b9f94302"
+
+[[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/azalea_bookshelf.png"
 hash = "5cde6b017aab6d6c8ef92f6c656c13067cb7addd8ac216427d1197ddbd3d1862"
 
@@ -1012,6 +1024,10 @@ hash = "b38cae2cde1512675e57f20927cfdfcb6c40186455a001038dbf46c1032db857"
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/azalea_door_top.png"
 hash = "e7dcbb2ea9519ceea43bf395923c33733cadc0c9647517a981a597d5da4098a8"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/azalea_hanging_sign.png"
+hash = "7fe3953a85f1e683d64d19d09b21efaf468591a15a205696c05631946385d75e"
 
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/azalea_ladder.png"
@@ -1030,8 +1046,28 @@ file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/bl
 hash = "b58e61c1546cc24f020ba37cce3f65c9dff990ff5b559f67d141cc62538aa25b"
 
 [[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/azalea_sign.png"
+hash = "7d8993c24cbc8776312b2bd99648a7fc27d3db1ed538911d40419731fc53590b"
+
+[[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/azalea_trapdoor.png"
 hash = "6a41e82d53378efd46bac488b96c30a89f69a9b6c15ac712e577b044ef0334b8"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/flowering_azalea_log.png"
+hash = "cf091df922a9b1b8923edd4e18bf4f6cca9ddb88711fd67de684c6b7f41fae5d"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/flowering_azalea_log_top.png"
+hash = "f7e7dde696c51f850e482813195b257375b953bd31ebce7fedad46a6006562b3"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/stripped_azalea_log.png"
+hash = "bf49ad6d5dcac19e51f45f7cf19bc6875d2eefd77deb96572879cf90b59a09fb"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/ecologics/textures/block/stripped_azalea_log_top.png"
+hash = "10ef112ec41b5259bb17e6e944c1e90190c672604f6c1d8abcbaf6f350b63511"
 
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/lightweight-inventory-sorting/textures/gui/sprites/sort_button_large.png"
