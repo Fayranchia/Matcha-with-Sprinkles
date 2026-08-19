@@ -127,6 +127,11 @@ hash = "7a5ba6a70f66a76b36b6227bf88e81c9d0453f0fd4398b94b425979820631c5a"
 metafile = true
 
 [[files]]
+file = "mods/clifftree.pw.toml"
+hash = "89bc8cdaee668817c94da9299784286c349f42d4f11436c465d528bcc0b28ee5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
