@@ -1570,6 +1570,11 @@ hash = "efd67c33ae9a65c7b3f53333673b8052675096312cd31c2040dfa5fb3a950615"
 metafile = true
 
 [[files]]
+file = "resources/resourcepack/required/matcha-flavoured-colourmap-fix.pw.toml"
+hash = "65fa7fcf6ee688b6dea4f4984025b73ab06fc642190b2177f0c407ffcbdb7ed8"
+metafile = true
+
+[[files]]
 file = "resources/resourcepack/required/shaded-font.pw.toml"
 hash = "c41c63686fc89dc753480126a0488065eb0852fae133c463c0e0ec795c33a3b3"
 metafile = true

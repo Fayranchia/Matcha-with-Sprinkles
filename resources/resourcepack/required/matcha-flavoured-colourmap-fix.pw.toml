@@ -1,0 +1,13 @@
+name = "Matcha Flavoured Colourmap Fix"
+filename = "Matcha Flavoured Biome Fix.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sDhxttid/versions/41qwi0gy/Matcha%20Flavoured%20Biome%20Fix.zip"
+hash-format = "sha512"
+hash = "40e30de178d5f5d718191ecf09d0df3a031a5bdb54bb078506e0d308bb35d0de76d0a282fa1a64155ac2552373bae68b9e61c9e7b832feee1fa4085edb886959"
+
+[update]
+[update.modrinth]
+mod-id = "sDhxttid"
+version = "41qwi0gy"
