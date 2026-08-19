@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "348b0bcf3f9c41dca77552e1f8412538df4d94bfc8677338d5ee7b96cb04d8a5"
+hash = "cdff1b7b5ec1b55ab1c0993b0fe940c879a08ef400570b7ca5c064fe284cbfc5"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4c0dab0da35edd2985b7dd083bbe01f960ef4e777c62d63b2f7ded4c399f2a8e"
+hash = "a8d8beb365d276bdfb081821d7e76dcb8f06b47984908bf1aa6d0ff10671c785"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
-hash = "726878f3b5e008b053db7b8defb7d22b9c7033caff135863f44bbc8e1ee9b80c"
+hash = "eb2e8fa380033793c9b8dc0d1eb8cc2943bf36700a873afe5cd467dbace724b0"
 metafile = true
 
 [[files]]
