@@ -37,7 +37,7 @@
     "minecraft:warped_roots": [
       "minecraft:nether_sprouts"
     ],
-    "minecraft:dirt": [
+    "minecraft:coarse_dirt": [
       "minecraft:petrified_oak_slab"
     ]
   }
