@@ -573,7 +573,7 @@ hash = "e56124e041cad2db470520e00fcc5f250a53148b00e0edfdec6afa3ae1ad7cb8"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/matcha_plus.json"
-hash = "c58ddc78d455ba966778934fdda0b3c272dcc7eee7e40253d2e6f630c178b277"
+hash = "139daeccfc72d5cea69a40c0c8fb62b73d5f2f81ec2167f177f4648eaa0d1510"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/connectiblechains/tags/block/chain_connectible.json"
