@@ -1,6 +1,6 @@
 name = "Lithostitched"
 filename = "lithostitched-1.8.0+beta3-fabric-26.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XaDC71GB/versions/V3XWhM8r/lithostitched-1.8.0%2Bbeta3-fabric-26.2.jar"
