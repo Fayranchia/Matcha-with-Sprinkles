@@ -82,6 +82,11 @@ hash = "cf99010b8824e2985cd5e1d39633e80ec41c0f3c534292249b32397f2f4d2cdd"
 metafile = true
 
 [[files]]
+file = "mods/big-water.pw.toml"
+hash = "93a9d9a42d5c50a56af7f71edab047ca17f3a9f775e0514066de5e110d17ab4c"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "ed76aad14a1e48dafee32104fde0b1cbe33a2c0d51d2bc118ee46449289dddac"
 metafile = true
@@ -219,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/forked.pw.toml"
 hash = "a74798e503cdda7284d00f5bc47ac2886e71e63c33b1ee5fb049f9e7edf96853"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "7889f43e63d473e147fda7ca58b0ad4689588ab557df3d3ce545f5a7da9ee64e"
 metafile = true
 
 [[files]]
@@ -522,6 +532,11 @@ hash = "9faa4e9274173825421653785dd0f5355d4154cf510e454ff3b63138789136f3"
 metafile = true
 
 [[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "3079498253cbfb08acf7e56ec706c7df34e6081af72ed0f5b033afa57c9ef5dd"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
 metafile = true
@@ -539,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/ziplines-rezipped.pw.toml"
 hash = "3ca3490e76156d4614ad12289768353627d556c545df22e2e563dfcc432abe89"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-torches-lanterns-matcha-flavoured.pw.toml"
+hash = "442d9f4eea40a1d8468f6bbca6a4e1e781b9c5251b9bea3dba1e6bcc625a248f"
 metafile = true
 
 [[files]]
