@@ -45,6 +45,10 @@ file = "config/reliable_remover/removal_ecologics.json"
 hash = "7fe610abe5aebf8e2418cd2423a62eda083c9fd396c3fb64e3539c1d66f29e71"
 
 [[files]]
+file = "config/reliable_remover/wilderwilds.json"
+hash = "321abc2e928968b7eab0cf7149c5da207f5e8abeab099e94450438ece1d0294f"
+
+[[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "dcbbfd9a7aa8da6cb0198784922a55828307f3b8a3ed2e97de0baa6fd99f79d6"
 
@@ -58,11 +62,11 @@ hash = "a1579f1608ad776feaaeff2d8974f1ff54f4ceaa2a275a3cb2062cb5566729a3"
 
 [[files]]
 file = "config/wilderwild/block.json5"
-hash = "8f5ea5388f4d1a334cc2f263a6a521086cc23277fdd987ae1b94d5686cfc5ba8"
+hash = "d0e7b63abcd28ec0420c3802eda4922e2bf2603ece580b7ce29f08c96d6e6565"
 
 [[files]]
 file = "config/wilderwild/entity.json5"
-hash = "0308db0ba63d60e30dd289f52bde4fda792b6ddff0558a614266217dec10c13c"
+hash = "72fa039020e34fb02b3e9b5f64cf8857d1574b924a6587d6f3b7b9253d9bdce7"
 
 [[files]]
 file = "config/wilderwild/item.json5"
@@ -78,7 +82,7 @@ hash = "ae8d37b936bffbc524b80477a7a6538b04828c920cff1b6c1324a78ba930abbf"
 
 [[files]]
 file = "config/wilderwild/worldgen.json5"
-hash = "70ce8f96844beb8153355ba1eb86201ebd8c9987bf5ad0c4d110c9d02882afee"
+hash = "fb07b30abe017efb30bef9df47195f5f6e44e3c69d926e7d213433c83b5abebb"
 
 [[files]]
 file = "mods/amethyst-nether.pw.toml"
