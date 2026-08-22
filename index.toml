@@ -613,11 +613,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/clutternomore.json"
-hash = "ed133d143a721f14039d94741996928c094c274d343bb42d6afcf82f84ee03a0"
+hash = "37143dc8ab2fa1218e645c549c0ea77f26591467683b9ed69d6c0ed66fbe6453"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/matcha_plus.json"
-hash = "7defb3d503b94acdae8ee053df6504fe4768e0075e2f883443bac8e4a9f45000"
+hash = "e51b813a05d00a0547fb8e73a416a3ef3e600a332f0107f07bd1fbd1879782f0"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/connectiblechains/tags/block/chain_connectible.json"
@@ -1598,6 +1598,150 @@ hash = "58b11495b7c23bb7cb7325e062ad34d421a21a24f41f3afeb5d2a03ef9f8637e"
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/wilderflowers/models/block/template_potted_wildflower.json"
 hash = "6d3155c5240b86d20be9b0ea2092f6c006295128e2426c4ccc618f3afb5d3a3a"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_acacia_log.json"
+hash = "cf460e0f6af3393cd1e7d6f4ccf1ddc50a0fd89846f1173dd5cbeef88fc7358c"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_acacia_log_horizontal.json"
+hash = "3a94e105bc0e97043e72453eb510f6501b6be6fb39b97c3c7ea8eb771f9a98c0"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_birch_log.json"
+hash = "e3e86691a910d01513e2f21051e9a1e91694cd453b3413f4628b20719644731e"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_birch_log_horizontal.json"
+hash = "bfd3191efbb2edd8789c005b3a68c11f3b182ca79ec53d1335a7772504fc531a"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_cherry_log.json"
+hash = "7b7bcd5928fbaf43b4b8e61c2f3626da0c8c8c479f38716515edd32aedf42831"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_cherry_log_horizontal.json"
+hash = "f87fc1c4e70e5b7d9e9470515efb774ae9451514f8725570001d6ffe324fdac8"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_dark_oak_log.json"
+hash = "de288413adcc15810b6150553ea202422d8b4716e7f08ffc7c09585a8c40405f"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_dark_oak_log_horizontal.json"
+hash = "f357505cbae3fb1371f52389cc31419043437758a9f08ab54bac69a7dd6e9ca0"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_jungle_log.json"
+hash = "9405d37a4b7ec6c6b8596b98fd6850dc35ffe93a93ac778a60d3218e56c9cb30"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_jungle_log_horizontal.json"
+hash = "ad3de47d3edda93f322a04dbf3bbe68f1dc1aa5aaf47e0975e9c44513275d42a"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_mangrove_log.json"
+hash = "f35ccb69a45107e578ddb5cf3d27006768c0066cd315fbf6ec026bcf46e11def"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_mangrove_log_horizontal.json"
+hash = "2c59509f32d698588c3fa5b1020ab002346d7810eb1c8622c7aa8011b9e82901"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_oak_log.json"
+hash = "543e5a6953ebd6837901808de436af41c3cbabbb545656be68af681dd8d9d4b7"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_oak_log_horizontal.json"
+hash = "f55032b6426556f8c19e400bea4757b9116df345286a1777349514aa871edeba"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_pale_oak_log.json"
+hash = "4fc238e1d4a02ed970b557289b5f2942c7ff3678a685345c7b3bd7be38777c50"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_pale_oak_log_horizontal.json"
+hash = "9d431935d34be58ce03241b69eaaf0551118094ccbd3a5e552beeaefd73ab49b"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_spruce_log.json"
+hash = "aa33ce455c5d0ade1fc424707ac2ae8cec689815d3cf521dfe752ac76bf4093d"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/hollowed_spruce_log_horizontal.json"
+hash = "e41e6b2fd7de2438d30aea7dc91cf77811335df4f8304d38b4b91779d2e9ce76"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_acacia_log.json"
+hash = "f81d23087252b25649555ae5f49b932590ea5ae44c014dd24fb588e8f6a0aaee"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_acacia_log_horizontal.json"
+hash = "3e19abd3f242ad8e80e8f701957acbcd7c7e251b68ad7efcde1ad216c41e010c"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_birch_log.json"
+hash = "503f12b5629e65033dd32886e271f32076e675fa8e763e8a4a1ef1e27add38a5"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_birch_log_horizontal.json"
+hash = "dd2f657cf9a0197a1b9edb4bb8c0d0f0468256e5b657daa9ab2ee7cdd5ec418c"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_cherry_log.json"
+hash = "db57e28aae1b31dbd89deff11f105f15ebba5fc6dcd534c2229f99ed7b9960c2"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_cherry_log_horizontal.json"
+hash = "7e777d09da0a23d7601ff00db3cbc69f5a94e196835e881b186149271f478693"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_dark_oak_log.json"
+hash = "de5b77f35fdf4bb9f660452676d86f4c5edd01f1d10668f1d45fdd63e7ed7f69"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_dark_oak_log_horizontal.json"
+hash = "404db19112c4ec61acf78bf12bc3fa2e4af8b45f281fcc0a6d206e857316ea86"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_jungle_log.json"
+hash = "32aa31f4f677d80697db3cc689f9f01ea23684b73cdd0a6fa2f293175fc566dc"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_jungle_log_horizontal.json"
+hash = "7124a464851f3f2ce6c9bad2109dd713d77e910f15ea6c6df0515b0ff543fe2a"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_mangrove_log.json"
+hash = "e3470ba6972426b74a35fae3318b1fc590be178e06fa9f6db50a280899e91745"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_mangrove_log_horizontal.json"
+hash = "9e5c2d8f0f08175a45ef2ff0d04b82224f150b627df2c231fa20cc1b143f852b"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_oak_log.json"
+hash = "5b07ddb85af161b6314be08bbc398840ce308efb56e6ad072342bbbd9257db99"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_oak_log_horizontal.json"
+hash = "54a06f5a0de4489c3638ef9ee3c4c53a0c79c5079b3cf5a495064d0a905b8002"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_pale_oak_log.json"
+hash = "43becd5fe4da1f51042d1b590328931b522243f81eacaff4837421c9090af388"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_pale_oak_log_horizontal.json"
+hash = "46f9d29aa251fa619ee4ce9b09bf37e1c74c2b6bbe0a3312980993c1db36b288"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_spruce_log.json"
+hash = "9dc56757173495e5ac91e3b64636bc486af48d68e94d556c2ec7634c46d4ff9d"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_spruce_log_horizontal.json"
+hash = "d317f63d3f99ce3904b1788a9d275ecfde3edf14924e0ceccd8d3dd9142286ac"
 
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/pack.mcmeta"
