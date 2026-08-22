@@ -1696,6 +1696,14 @@ file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/blo
 hash = "7e777d09da0a23d7601ff00db3cbc69f5a94e196835e881b186149271f478693"
 
 [[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_crimson_stem.json"
+hash = "f2994ba217a36f82c15bcd2fd333bf07e568d02bcc96a29dded35d08276112d8"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_crimson_stem_horizontal.json"
+hash = "bf93996938578e2285c7ab0ad9c8f66e713f4e816a40369dc29a262b52180c03"
+
+[[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_dark_oak_log.json"
 hash = "de5b77f35fdf4bb9f660452676d86f4c5edd01f1d10668f1d45fdd63e7ed7f69"
 
@@ -1742,6 +1750,14 @@ hash = "9dc56757173495e5ac91e3b64636bc486af48d68e94d556c2ec7634c46d4ff9d"
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_spruce_log_horizontal.json"
 hash = "d317f63d3f99ce3904b1788a9d275ecfde3edf14924e0ceccd8d3dd9142286ac"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_warped_stem.json"
+hash = "1ec2c302e8da8f6246137e6258d5ed573f301ec13a1ff822dab30646285adfeb"
+
+[[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/block/stripped_hollowed_warped_stem_horizontal.json"
+hash = "873451c806dfb3f0aa77ed464b6aad8c31d241c9641f5c17514cd28c1c294f8a"
 
 [[files]]
 file = "resources/resourcepack/required/Matcha_Plus/pack.mcmeta"
