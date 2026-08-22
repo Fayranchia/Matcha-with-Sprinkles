@@ -20,8 +20,8 @@
       "${ns}:${wood}_hanging_sign"
     ],
     "/(?<ns>[^:]+):(?<wood>.+)_chest/": [
-      "more_barrel_variants:${wood}_barrel",
-      "${ns}:${wood}_trapped_chest"
+      "${ns}:${wood}_trapped_chest",
+      "more_barrel_variants:${wood}_barrel"
     ],
     "/(?<ns>[^:]+):(?<wood>.+)_leaves/": [
       "${ns}:${wood}_sapling",
