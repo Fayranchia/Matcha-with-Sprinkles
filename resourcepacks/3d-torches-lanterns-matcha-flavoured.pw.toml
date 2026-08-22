@@ -1,0 +1,13 @@
+name = "3D Torches & Lanterns (Matcha Flavoured)"
+filename = "3D Torches & Lanterns (Matcha Flavoured) v1.0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/POJIs23j/versions/ULqxqjKu/3D%20Torches%20%26%20Lanterns%20%28Matcha%20Flavoured%29%20v1.0.2.zip"
+hash-format = "sha512"
+hash = "21ab2dfed76977656e61dadba55c177a756eddd6475d2c3cfc043fc4734a7a976977af47e23e965fcdcb04a130d05ec19119d49edb24686d069230f25354b086"
+
+[update]
+[update.modrinth]
+mod-id = "POJIs23j"
+version = "ULqxqjKu"
