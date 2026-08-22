@@ -720,6 +720,10 @@ file = "resources/datapack/required/Matcha_Plus/data/minecraft/recipe/birch_sign
 hash = "42a417653ae347e66dac7445d937fa80d87c3250187829fcd511937250b4ec14"
 
 [[files]]
+file = "resources/datapack/required/Matcha_Plus/data/minecraft/recipe/brush.json"
+hash = "d14d434e078a47fe7ba54e94f21a00a7bed7d51e14901b8c5b61a315799b51e5"
+
+[[files]]
 file = "resources/datapack/required/Matcha_Plus/data/minecraft/recipe/cherry_fence.json"
 hash = "44af0f255ffd368949d1bf12671e81f108c4e432477ada05f5097dc1ea9e26a3"
 
