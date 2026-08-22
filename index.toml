@@ -569,7 +569,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/clutternomore.json"
-hash = "e56124e041cad2db470520e00fcc5f250a53148b00e0edfdec6afa3ae1ad7cb8"
+hash = "ed133d143a721f14039d94741996928c094c274d343bb42d6afcf82f84ee03a0"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/matcha_plus.json"

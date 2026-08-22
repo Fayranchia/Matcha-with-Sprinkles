@@ -1,17 +1,13 @@
 {
   "priority": 500,
   "add": {
-    "/(?<ns>[^:]+):(?<wood>.+)_log/": [
+    "/(?<ns>[^:]+):(?!stripped_)(?<wood>.+)_log/": [
       "${ns}:${wood}_wood",
       "${ns}:stripped_${wood}_log",
       "${ns}:stripped_${wood}_wood",
       "wilderwild:hollowed_${wood}_log",
       "quark:hollow_${wood}_log",
       "everycomp:q/${ns}/hollow_${wood}_log"
-    ],
-
-    "/(?<ns>[^:]+):(?<wood>.*wood.*)_log/": [
-      "${ns}:${wood}"
     ],
 
     "/minecraft:(?<stem>.+?)_planks/": {
