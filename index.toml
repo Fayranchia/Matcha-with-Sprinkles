@@ -1760,6 +1760,10 @@ file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/models/blo
 hash = "873451c806dfb3f0aa77ed464b6aad8c31d241c9641f5c17514cd28c1c294f8a"
 
 [[files]]
+file = "resources/resourcepack/required/Matcha_Plus/assets/wilderwild/texts/splashes.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "resources/resourcepack/required/Matcha_Plus/pack.mcmeta"
 hash = "d87be2a1cce43e9a9002bd2c7720b4466126eafd530b57976db89041080cbdda"
 
