@@ -57,6 +57,30 @@ file = "config/subtle_effects/items.toml"
 hash = "a1579f1608ad776feaaeff2d8974f1ff54f4ceaa2a275a3cb2062cb5566729a3"
 
 [[files]]
+file = "config/wilderwild/block.json5"
+hash = "8f5ea5388f4d1a334cc2f263a6a521086cc23277fdd987ae1b94d5686cfc5ba8"
+
+[[files]]
+file = "config/wilderwild/entity.json5"
+hash = "0308db0ba63d60e30dd289f52bde4fda792b6ddff0558a614266217dec10c13c"
+
+[[files]]
+file = "config/wilderwild/item.json5"
+hash = "f244532efa212e5ebb815db978b095330aa6d51d871b3471174cc9a85b2c0051"
+
+[[files]]
+file = "config/wilderwild/misc.json5"
+hash = "e930d00147f971557585a30f9c99b0a9c58195a67428204ec1b6cd527782a365"
+
+[[files]]
+file = "config/wilderwild/mixins.json5"
+hash = "ae8d37b936bffbc524b80477a7a6538b04828c920cff1b6c1324a78ba930abbf"
+
+[[files]]
+file = "config/wilderwild/worldgen.json5"
+hash = "70ce8f96844beb8153355ba1eb86201ebd8c9987bf5ad0c4d110c9d02882afee"
+
+[[files]]
 file = "mods/amethyst-nether.pw.toml"
 hash = "fb9e475ea6dfe84a9ff1a99589a798881419dbd99db4f2ef913bfdbacc99865f"
 metafile = true
