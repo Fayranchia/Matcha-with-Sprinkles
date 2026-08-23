@@ -1,0 +1,13 @@
+name = "Nether Chested"
+filename = "NetherChested-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bHJp2GRg/versions/FM8m2ljh/NetherChested-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha512"
+hash = "75f294aeb7e2ab0914e570d652910fdac50c129eb46dde55b19a9d289cb02fe11765a932bd336cc9ccf398bc21a09a73aff05a5536fab7621847a4508159578f"
+
+[update]
+[update.modrinth]
+mod-id = "bHJp2GRg"
+version = "FM8m2ljh"
