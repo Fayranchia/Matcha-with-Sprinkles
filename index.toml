@@ -82,7 +82,7 @@ hash = "ae8d37b936bffbc524b80477a7a6538b04828c920cff1b6c1324a78ba930abbf"
 
 [[files]]
 file = "config/wilderwild/worldgen.json5"
-hash = "fb07b30abe017efb30bef9df47195f5f6e44e3c69d926e7d213433c83b5abebb"
+hash = "6be3e32acf46d90476dfc7731ff55019591dffd120e735702103bac6dce54b49"
 
 [[files]]
 file = "mods/amethyst-nether.pw.toml"
