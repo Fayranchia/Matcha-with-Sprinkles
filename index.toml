@@ -626,6 +626,122 @@ file = "resources/datapack/required/Matcha_Plus/data/an/function/timer/tick.mcfu
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/bog.json"
+hash = "22dcc65e2aa25eb2e1f07d4a4204d5d02c6a2fa6dae064b10bf1b747e9aababf"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/caves.json"
+hash = "432e3c972071862b0ab111763f0bcf4569176ad69967c5f9deea02bb8c816d38"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/cold_caves.json"
+hash = "7e6b44eef941550659ff2e8299745d117a7868a21c7a5c949fa4013da71d1541"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/cold_river.json"
+hash = "2a540ab73bd7737f25cbf1215e2f8e8e56bbe05e27a15e9ffc18450d7807ac9a"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/coniferous_badlands.json"
+hash = "19d690cff7b061e3b306275a65e16c351f6bdff460c96e7ab8db24af6299d65e"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/desert_cliff.json"
+hash = "9b57d9fa85241349dec484bf25c75794eb3d1a602f1168a22fa005fa2a5217e5"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/diorite_shore.json"
+hash = "6cc1fdc37077e8586f0e7276a3acd32e5a850835f0115ca4408a9e398dfc5d0a"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/dirt_caves.json"
+hash = "1560c167fdb3e1fb60a20e87eea2ee13ccfc38cd856d7e05644063d6986a7307"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/frozen_caves.json"
+hash = "6b55a054e520f39ccb848ae59e694226c7f56b451cb52769e1b93541404e8e76"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/glacier_cliff.json"
+hash = "3c2ac7d3deedc2edfc8613a92f87591bfea32263f9b4cfa2c1932deb83853bab"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/glacier_valley.json"
+hash = "d811a0b665a4f99d0630a7d2d463e1aa813ab6c9fc9635b20ec6716ebabfbf2f"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/granite_shore.json"
+hash = "c99efa5d264ee98faded9ece09f1eeb54e9bf52b1bfe116776fd7e2baf84db6d"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/gravelly_beach.json"
+hash = "6b7a854888963977c38f37a7fce76ec2c8b15f2b587bda742d8b54206f43f918"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/inferno.json"
+hash = "5f071ceed4fecc0bc4314a0aee9612ecee009f8b05624790ff547deb9217ee95"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/kelp_forest.json"
+hash = "bff764b8a5bd4d42ee46eb73cff2370afb2f862b917b12f5010787c3de692c56"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/lukewarm_caves.json"
+hash = "41d14de467c4e70956627632d74b3de7e5a78f1adac49e3681c9f73ed7c4f6e4"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/mushroom_caves.json"
+hash = "3e6da9461cdbf8110bcc27bd8d0d80f83be841f67945b093cd68ec260b30ed0d"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/oasis.json"
+hash = "c4dd8a3f21b7363481c339e44350fd29f3d155808543a55f029c339ed4f54454"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/pale_grotto.json"
+hash = "a743de3e3353e123c4a873ddeb0871e34493e749fb488912286378c42f1aa3d4"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/shrubland.json"
+hash = "bf6c9dadf6134acb90a1d16bdd358a8230e890c0766545e4bc7e859b09e73c06"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/snowy_diorite_shore.json"
+hash = "f0b6df568df47f5448bfe4971b588fbce94957d718500fae6654002cf53c53ff"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/snowy_old_growth_taiga.json"
+hash = "6ab9aa1d0f8755cad4edee453ce0d81c58a51a0993357b42a19436bacad94ef7"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/sparse_forest.json"
+hash = "15bd62b9865858e41cf42ca89b91d0e01245f122cdaf07138d14e2dab4704e97"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/stone_ocean.json"
+hash = "dabe3a9f4502482f6aaf28ba61e0bca10d95e7f594d0486367885185589ba8c1"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/tropical_beach.json"
+hash = "7ce4f7c460a8aea6a7ed68f62a8bb60c29c5f82ea607c323b4b1a6bf7e584bad"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/tropical_river.json"
+hash = "0c3116a6378a510bb32360fe0ae06a0f709475719c391d5aea4552361a02bc84"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/tundra.json"
+hash = "75e5b45495907e6778471050bb410a25fca0c623ac3e456427814722014c20fa"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/warm_caves.json"
+hash = "a9c817af8c33433e5f61bb2202bf4133a1cbd8e907f48e0a54eefec036f1aa54"
+
+[[files]]
+file = "resources/datapack/required/Matcha_Plus/data/clifftree/worldgen/biome/warm_river.json"
+hash = "6bd33d4ba9540bcb19f38405a1450e10dc2e2eb1feb7e684b6fe10aaaa1222f4"
+
+[[files]]
 file = "resources/datapack/required/Matcha_Plus/data/clutternomore/shape_map/clutternomore.json"
 hash = "37143dc8ab2fa1218e645c549c0ea77f26591467683b9ed69d6c0ed66fbe6453"
 
