@@ -20,7 +20,7 @@
 		"butterflySpawnCap": 10,
 	},
 	"jellyfish": {
-		"spawnJellyfish": true,
+		"spawnJellyfish": false,
 		"jellyfishSpawnCap": 30,
 		"jellyfishHiding": true,
 		"jellyfishTentacles": 8,
@@ -46,7 +46,7 @@
 		"spawnMooblooms": true,
 	},
 	"penguin": {
-		"spawnPenguins": true,
+		"spawnPenguins": false,
 	},
 	"tumbleweed": {
 		"spawnTumbleweed": true,
