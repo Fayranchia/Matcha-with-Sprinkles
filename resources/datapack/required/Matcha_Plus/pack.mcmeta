@@ -20,12 +20,6 @@
         "path": "recipe/chest_from_logs.json"
       },
       {"namespace":"an","path":"worldgen/structure_set/nether_structures.json"},
-      {"namespace":"an","path":"worldgen/configured_feature/7_underground_ore/ore/small_deepslate_gold_ore.json"},
-      {"namespace":"an","path":"worldgen/configured_feature/7_underground_ore/ore/big_deepslate_iron_ore.json"},
-      {"namespace":"an","path":"worldgen/configured_feature/7_underground_ore/ore/small_deepslate_iron_ore.json"},
-      {"namespace":"an","path":"worldgen/configured_feature/7_underground_ore/ore/big_deepslate_gold_ore.json"},
-      {"namespace":"an","path":"worldgen/configured_feature/7_underground_ore/ore/big_deepslate_coal_ore.json"},
-      {"namespace":"an","path":"worldgen/configured_feature/7_underground_ore/ore/small_deepslate_coal_ore.json"},
       {"namespace":"an","path":"worldgen/structure/bastion_gallery.json"},
       {"namespace":"an","path":"worldgen/structure/red_fortress.json"},
       {"namespace":"an","path":"worldgen/structure/bastion_castle.json"},

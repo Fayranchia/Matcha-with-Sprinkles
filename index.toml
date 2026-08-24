@@ -1059,7 +1059,7 @@ hash = "cefd2dc834bc325457be75f639f0b1b2597a84e5a566977b487a66590ac3340c"
 
 [[files]]
 file = "resources/datapack/required/Matcha_Plus/pack.mcmeta"
-hash = "4ff7850c385326c2f47dafa8007d8e9ec72d5cc9b0fb613c5334f496a9300292"
+hash = "958b9210cc7989979ddc15d91c2cd8afd8c453720468a5dd9cfdbf71b5888521"
 
 [[files]]
 file = "resources/datapack/required/local-flavors.pw.toml"
