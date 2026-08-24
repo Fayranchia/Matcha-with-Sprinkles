@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-recipe-book-(extended).pw.toml"
-hash = "cf99010b8824e2985cd5e1d39633e80ec41c0f3c534292249b32397f2f4d2cdd"
+hash = "55e59db98dde303a3282a6388ba928cd80e7efcbf4110a8dfc26e4110856995f"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8e426b268c51db1b205784082440f3924018a28c7607ebad2f7a5b7796915309"
+hash = "5c76a1e72c12255967cdc39636698133af73c2ac87378934a8efb42a15aaa195"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "cdff1b7b5ec1b55ab1c0993b0fe940c879a08ef400570b7ca5c064fe284cbfc5"
+hash = "69f5236e7f8a9bde60c2928a272768d31b6310a981932e8cf6ab0c4b71d0e99b"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
-hash = "249bd897a2f2ab1af127b55c5406087d64948e5e0c36320eee698e5c5e1a9e7a"
+hash = "d1cb8ac6ce6ca4a27794b5f5cf619b279244a6a5da5a330fab0bbcca3ebe6c3a"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
+hash = "7ed424f5ce1febe2c2c0e5fc58d34858f1bbd97eabdceb9b9c6afdde4bf578df"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-chiseled-bookshelf-variants.pw.toml"
-hash = "d62da316e4481324b4bba2af99b8e4d258bd3ddab6ce2a4f5bac57d32ac837c9"
+hash = "a37d2c017b26c361b6c14ba8c085b1a182c8907ad2fe56bb79983bf4fac0fdee"
 metafile = true
 
 [[files]]
@@ -396,12 +396,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
+hash = "68f5930c1212376b4b26a295c91dd5eb5c1157af1f95a18a5f8c06c4da7125cb"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
-hash = "0476f5ed0b316f0d014a70515b1e947ed9591804b139b928d1ad8d35877e1e01"
+hash = "cd6aeabd3b34437e61d3d1974eb2caa96eeec8a943dd5b65a525365e407a86fa"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "75138a5203ee3fb2fd8b095d06ec9d6076793f18168f0d0925603fb148d62631"
+hash = "92ba5fb001bb4b1ef06c89f0d883ad86e0aef357bb6fcad6cc9f2b671168e7ca"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b4b379e0f099bfd1c7a43fc7219a74ed3a558b629b9081509a92f5d9f32b30df"
+hash = "4ae52571966463d2e23f70704621089c5d3306536acd69173144e402eaf5c13f"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "79453aa3e4efc424d17251206b51d3c2efd68e4036d7d80783f1c9f0c0b299a1"
+hash = "cf0503683af1297dc53a7b0934749d17ac9f1a70aea787677c11552de741bda5"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+hash = "b0d722aa3b463fddb3a425affdc9e6c898a657040321e8c6501b089d8f7caee2"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "ba4d4dbcacdf00461f3fe9c14bbf18d1e65e053688d7382f3c32ee9e0868a38d"
+hash = "9171a6a788ccba0c128dbc05bd3101fc69b9e1240656dcf549f25814ab800a10"
 metafile = true
 
 [[files]]
@@ -601,12 +601,12 @@ metafile = true
 
 [[files]]
 file = "resources/common/required/matcha-flavoured.pw.toml"
-hash = "fc25bb39a97fc9902c052ec9c01d08507c6d4eb1828ce94bbe93b953c5a315f5"
+hash = "406a8714e82c116feca14517b974a0607dabf8d4671313cc150e98f1d9601a02"
 metafile = true
 
 [[files]]
 file = "resources/common/required/matcha-trims.pw.toml"
-hash = "0546917f40c5cc192e9cfca4be4463df361a53243ab213acddeaba6dbb805bdf"
+hash = "68ea200a26a0df1819929ac4e9d5971e6b80d2bdbb1da48b249f95e4811ef56c"
 metafile = true
 
 [[files]]
@@ -1063,7 +1063,7 @@ hash = "958b9210cc7989979ddc15d91c2cd8afd8c453720468a5dd9cfdbf71b5888521"
 
 [[files]]
 file = "resources/datapack/required/local-flavors.pw.toml"
-hash = "b93be78adecbc675ed8f2a44730464fc90a8fa100506ce11badf4c3805b10964"
+hash = "cdb0919cafc7b3ba1b7a1282f3a8bfdbd308c775085ea509cf5beb8832fca64b"
 metafile = true
 
 [[files]]
@@ -1792,7 +1792,7 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepack/required/matcha-block-overlays.pw.toml"
-hash = "efd67c33ae9a65c7b3f53333673b8052675096312cd31c2040dfa5fb3a950615"
+hash = "8f26aafbf85822c4285c97f166f58d707252c3a83279269003ecbdbf7c275b4a"
 metafile = true
 
 [[files]]

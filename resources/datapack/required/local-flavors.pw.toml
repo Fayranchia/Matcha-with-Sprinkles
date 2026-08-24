@@ -1,13 +1,13 @@
 name = "Local Flavors - A Matcha Flavored Addon"
-filename = "Local_Flavors_1_11.zip"
+filename = "Local_Flavors_1_12.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rum5MApu/versions/YAWZNAqy/Local_Flavors_1_11.zip"
+url = "https://cdn.modrinth.com/data/rum5MApu/versions/s2nuHyWV/Local_Flavors_1_12.zip"
 hash-format = "sha512"
-hash = "a0aadcb3c7c6bfb75b7a6c39af1f23049096f19a760686f29b3f8986802b9f91adb91430479bb45b9f77e8d266b362aa00d88eca182f78241ae17122362b9c22"
+hash = "780e185d7689bd1ded5c69fab1e43c369fdde6745bd7ff3d5a017fd71a72611537b11e5bf56a8724f41ab263979db918f1debf552497d0a0c5295c164f87250a"
 
 [update]
 [update.modrinth]
 mod-id = "rum5MApu"
-version = "YAWZNAqy"
+version = "s2nuHyWV"

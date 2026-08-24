@@ -1,13 +1,13 @@
 name = "Matcha Flavoured"
-filename = "Matcha_Flavoured_1_11.zip"
+filename = "Matcha_Flavoured_1_12.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QI0EmgZ1/versions/KXt8QWQf/Matcha_Flavoured_1_11.zip"
+url = "https://cdn.modrinth.com/data/QI0EmgZ1/versions/E9rngRfK/Matcha_Flavoured_1_12.zip"
 hash-format = "sha512"
-hash = "ee78dae695e4f95bd0d807406b85c0d19121b594b5f6254000fd91345264880314b67305b56fd1ae40ac47d80c5dc4f2f903f92708af071b84c794941f1cb62d"
+hash = "90cc56fd72caea4f0f45bb3817b64e5fb76ff600bad9cf5ae4d4bc340f717d44cce4ed9f94def18b4b3902124df6d96a488c3941661e89ad863db536390db056"
 
 [update]
 [update.modrinth]
 mod-id = "QI0EmgZ1"
-version = "KXt8QWQf"
+version = "E9rngRfK"
