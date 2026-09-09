@@ -1,0 +1,8 @@
+{
+  "elements": [
+    "minecraft:music_disc_tears"
+  ],
+  "patch": {
+    "damage_resistant": "#minecraft:is_fire"
+  }
+}
